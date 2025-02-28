@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "学习obsidian/卡片笔记法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "卡片笔记法 的反向链接列表"
             }
           },
           {
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,7 +180,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -191,7 +190,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1c9beb1ff6988c73",
+  "active": "e442bd4fab17f14f",
   "lastOpenFiles": [
     "学习obsidian/git的基础配置.md",
     "学习obsidian/git插件的使用方法.md",
