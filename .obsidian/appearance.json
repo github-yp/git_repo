@@ -1,5 +1,6 @@
 {
   "cssTheme": "Sanctum",
   "baseFontSize": 24,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "theme": "system"
 }
