@@ -15,7 +15,17 @@
               "state": {
                 "file": "学习obsidian/卡片笔记法.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "卡片笔记法"
@@ -162,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -180,7 +191,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1c9beb1ff6988c73",
+  "active": "6b738628190586b2",
   "lastOpenFiles": [
     "学习obsidian/git的基础配置.md",
     "学习obsidian/git插件的使用方法.md",
