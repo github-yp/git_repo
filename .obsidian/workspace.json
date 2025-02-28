@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#初始化git的步骤",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +170,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c4f4d757b68c74fc",
+  "active": "1c9beb1ff6988c73",
   "lastOpenFiles": [
     "欢迎.md",
     "创建链接.md",
