@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,7 +181,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1c9beb1ff6988c73",
+  "active": "a8913032bc8e8adc",
   "lastOpenFiles": [
     "学习obsidian/obsidian样式库.md",
     "学习obsidian/git的基础配置.md",
