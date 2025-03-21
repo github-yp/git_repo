@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "绿豆薏苡仁粥",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +182,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1c9beb1ff6988c73",
+  "active": "c4f4d757b68c74fc",
   "lastOpenFiles": [
     "养生/扁桃体炎，喉咙干涩.md",
     "养生/六字诀，六淫之邪.md",
